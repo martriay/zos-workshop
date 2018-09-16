@@ -1,0 +1,7 @@
+# Ignore any project specific ZeppelinOS CLI generated config
+build/*
+zos.json
+zos.local.json
+
+# Ignore any locally built npm modules
+node_modules/
